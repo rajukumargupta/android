@@ -1,0 +1,19 @@
+{
+    "name": "rajukumargupta/android",
+    "description": "My first packagist package",
+    "type": "package",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Raju",
+            "email": "rajukumarguptagupta@gmail.com",
+            "homepage": "http://yourhomepage-if-you-have.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ourcodeworld\\HelloComposer\\": "src/"
+        }
+    }
+}
